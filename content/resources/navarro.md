@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0b4342ee-d663-410d-cdd3-db452780dc06
 resourcetype: Document
 title: navarro.pdf
 uid: 4b507b83-5737-307e-0103-a5472cb82502

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d53595ce-430f-93b3-3732-b924d4c05eb8
 resourcetype: Document
 title: tenorm_summary.pdf
 uid: 2960b3e7-b3ab-7fc1-dc43-15056e7a8e19

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0b4342ee-d663-410d-cdd3-db452780dc06
 resourcetype: Document
 title: love.pdf
 uid: 451a4a6f-26d8-fe6d-482a-7fc117313096

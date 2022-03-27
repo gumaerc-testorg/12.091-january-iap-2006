@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d53595ce-430f-93b3-3732-b924d4c05eb8
 resourcetype: Document
 title: tenorm_sourc_tab.pdf
 uid: 82b6b70b-8bb6-1088-be73-b9334fffb02f

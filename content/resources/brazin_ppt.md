@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0b4342ee-d663-410d-cdd3-db452780dc06
 resourcetype: Document
 title: brazin_ppt.pdf
 uid: 9ea3df49-f9ed-6363-311e-6eb35c2c89ca
