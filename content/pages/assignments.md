@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section include 5-question review quiz based on all class sessions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

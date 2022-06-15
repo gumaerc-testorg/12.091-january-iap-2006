@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes lecture files on the topics covered in course schedule.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -43,7 +44,7 @@ Selection of Elements for Report and Presentation
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF ‑ 3.1 MB]({{< baseurl >}}/resources/session1))
+({{% resource_link 20a9aa88-5cb0-1821-491e-167d4b786b89 "PDF ‑ 3.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,13 +66,13 @@ Radon
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/session2a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 ‑ 1.8 MB]({{< baseurl >}}/resources/session2b))
+({{% resource_link 42f1dd4d-abdb-88a4-99df-73fcc187d7b1 "PDF 1" %}}) ({{% resource_link aba04369-6bae-3a31-5b1e-fd259a89c1d4 "PDF 2 ‑ 1.8 MB" %}})
 
-TENORM Sources ([PDF]({{< baseurl >}}/resources/tenorm_sources))
+TENORM Sources ({{% resource_link ddcb8398-e803-ae32-b57e-1b7ed4cf7acc "PDF" %}})
 
-TENORM Sources Table ([PDF]({{< baseurl >}}/resources/tenorm_sourc_tab))
+TENORM Sources Table ({{% resource_link 82b6b70b-8bb6-1088-be73-b9334fffb02f "PDF" %}})
 
-TENORM Summary (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/tenorm_summary))
+TENORM Summary ({{% resource_link 2960b3e7-b3ab-7fc1-dc43-15056e7a8e19 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -93,7 +94,7 @@ MIT-EAPS Neutron Activation Analysis Laboratory - Hands on Experience
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF ‑ 1.5 MB]({{< baseurl >}}/resources/session3))
+({{% resource_link 6eb14080-8c06-2460-1936-8b1d8ded7b6b "PDF ‑ 1.5 MB" %}})
 
 
 {{< tdclose >}}
@@ -113,7 +114,7 @@ Hydrogeology of As in Central Massachusetts
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/session4))
+({{% resource_link 8908d0d3-2464-9d07-160b-aed166845f9d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -137,7 +138,7 @@ Student Presentations
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF ‑ 4.5 MB]({{< baseurl >}}/resources/session5))
+({{% resource_link 7278735d-2ae4-69e3-4212-22bdb09f5edd "PDF ‑ 4.5 MB" %}})
 
 
 {{< tdclose >}}
