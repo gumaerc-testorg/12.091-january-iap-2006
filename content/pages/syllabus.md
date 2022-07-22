@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes prerequisite, Description and format of the course
+  alongwith the grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7334916c-0212-d7fd-11c2-25994d1173e7
 ---
