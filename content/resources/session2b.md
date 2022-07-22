@@ -5,6 +5,7 @@ file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: session2b.pdf
 uid: aba04369-6bae-3a31-5b1e-fd259a89c1d4
 ---
 This resource include notes on Radon.
-

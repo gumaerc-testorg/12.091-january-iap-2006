@@ -6,6 +6,7 @@ file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: brazin_ppt.pdf
 uid: 9ea3df49-f9ed-6363-311e-6eb35c2c89ca
 ---
 This resource is a slide presentation on Chlorine and Its Consequences by Jacqueline Brazin.
-

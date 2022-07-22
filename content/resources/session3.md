@@ -6,6 +6,7 @@ file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: session3.pdf
 uid: 6eb14080-8c06-2460-1936-8b1d8ded7b6b
 ---
 This resource include notes on Overview of Analytical Techniques and MIT-EAPS Neutron Activation Analysis Laboratory - Hands on Experience.
-

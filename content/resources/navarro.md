@@ -6,6 +6,7 @@ file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: navarro.pdf
 uid: 4b507b83-5737-307e-0103-a5472cb82502
 ---
 This resource is a report on U.S. Environmental Health Effects and Treatment of Mercury Exposure by Sergio Navarro.
-

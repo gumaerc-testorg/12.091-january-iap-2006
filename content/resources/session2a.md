@@ -6,6 +6,7 @@ file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: session2a.pdf
 uid: 42f1dd4d-abdb-88a4-99df-73fcc187d7b1
 ---
 This resource includes notes on NORM (Naturally Occurring Radioactive Material)and TENORM (Technologically-Enhanced Naturally Occurring Radioactive Material).
-

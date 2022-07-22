@@ -6,6 +6,7 @@ file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tenorm_sources.pdf
 uid: ddcb8398-e803-ae32-b57e-1b7ed4cf7acc
 ---
 This resource include notes on Mining and Resource Extraction, Energy Products, Water and Waste Treatment, and Consumer Products Containing TENORM.
-

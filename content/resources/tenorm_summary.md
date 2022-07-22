@@ -5,6 +5,7 @@ file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tenorm_summary.pdf
 uid: 2960b3e7-b3ab-7fc1-dc43-15056e7a8e19
 ---
 This resource include summary of Tenorm.
-
