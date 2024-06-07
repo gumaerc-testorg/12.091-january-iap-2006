@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a slide presentation on Iodine by Christopher Love.
 file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/4e0fc2925649ea6283699226ce45c113_love_ppt.pdf
+file_size: 188294
 file_type: application/pdf
 learning_resource_types:
 - Projects

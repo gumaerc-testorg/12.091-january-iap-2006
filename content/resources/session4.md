@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource include notes on Hydrogeology of As in Central Massachusetts.
 file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/8908d0d324649d07160baed166845f9d_session4.pdf
+file_size: 451640
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
