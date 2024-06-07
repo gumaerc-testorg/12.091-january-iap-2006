@@ -3,6 +3,7 @@ content_type: resource
 description: This resource include notes on Overview of Analytical Techniques and
   MIT-EAPS Neutron Activation Analysis Laboratory - Hands on Experience.
 file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/6eb140808c06246019368b1d8ded7b6b_session3.pdf
+file_size: 1543717
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
