@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes notes on NORM (Naturally Occurring Radioactive
   Material)and TENORM (Technologically-Enhanced Naturally Occurring Radioactive Material).
-file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/42f1dd4dabdb88a499df73fcc187d7b1_session2a.pdf
+file: /ol-ocw-studio-app/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/42f1dd4dabdb88a499df73fcc187d7b1_session2a.pdf
 file_size: 805186
 file_type: application/pdf
 learning_resource_types:
