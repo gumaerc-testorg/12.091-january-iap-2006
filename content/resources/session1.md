@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes introduction and notes on Classification of Elements,
   Elemental Link Between Geosphere and Biosphere, Essential and Non-essential Elements
   with Reference to Human Health, and Selection of Elements for Report and Presentation.
-file: /ol-ocw-studio-app/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/20a9aa885cb01821491e167d4b786b89_session1.pdf
+file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/20a9aa885cb01821491e167d4b786b89_session1.pdf
 file_size: 3254224
 file_type: application/pdf
 learning_resource_types:

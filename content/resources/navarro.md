@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a report on U.S. Environmental Health Effects and Treatment
   of Mercury Exposure by Sergio Navarro.
-file: /ol-ocw-studio-app/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/4b507b835737307e0103a5472cb82502_navarro.pdf
+file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/4b507b835737307e0103a5472cb82502_navarro.pdf
 file_size: 125340
 file_type: application/pdf
 learning_resource_types:
