@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a report on Chlorine and Its Consequences by Jacqueline
   Brazin.
-file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/919fe81b67f01b3b77b2bf1604b94c86_brazin.pdf
+file: /ol-ocw-studio-app/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/919fe81b67f01b3b77b2bf1604b94c86_brazin.pdf
 file_size: 51133
 file_type: application/pdf
 learning_resource_types:
