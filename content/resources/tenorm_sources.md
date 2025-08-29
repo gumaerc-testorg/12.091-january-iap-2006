@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource include notes on Mining and Resource Extraction, Energy
   Products, Water and Waste Treatment, and Consumer Products Containing TENORM.
-file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/ddcb8398e803ae32b57e1b7ed4cf7acc_tenorm_sources.pdf
+file: /ol-ocw-studio-app/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/ddcb8398e803ae32b57e1b7ed4cf7acc_tenorm_sources.pdf
 file_size: 140836
 file_type: application/pdf
 learning_resource_types:
