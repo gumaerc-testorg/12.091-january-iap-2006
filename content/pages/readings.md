@@ -59,9 +59,9 @@ Bowman, C. A., P. T. Bobrowsky, and O. Selinus. "Medical Geology: New relevance 
 
 Lide, D. R., ed. "Periodic Table of The Elements." In *CRC Handbook of Chemistry and Physics*. 86th ed. Boca Raton, FL: CRC Press, 2005. ISBN: 9780849304866.
 
-[Periodic table of the elements](https://periodic.lanl.gov/index.shtml) (also available as a [PDF](http://science.widener.edu/~svanbram/ptable_6.pdf))
+{{% resource_link "0b375f22-8b27-435e-8bd3-b3ac159269e4" "Periodic table of the elements" %}} (also available as a {{% resource_link "c41682ba-ea7b-45c8-a2cb-30967effc06e" "PDF" %}})
 
-[Reading the periodic table](https://chemistrytalk.org/how-to-read-the-periodic-table/#:~:text=The%20periodic%20table%20is%20organized,tells%20us%20about%20their%20properties.)
+{{% resource_link "97947178-0d57-4437-932d-21803e2c1fb1" "Reading the periodic table" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -83,25 +83,25 @@ Potts, P. J. *A handbook of silicate rock analysis*. New York, NY: Blackie, Chap
 
 Exposure of the population of the united states and Canada from natural background radiation, Report 94. National Council on Radiation Protection and Measurements, Bethesda, Maryland.
 
-[The NORM Group Organization](http://www.thenormgroup.org/normrelatedlinks.html)
+{{% resource_link "70349784-a75b-4714-b1e0-9a08744c1101" "The NORM Group Organization" %}}
 
-[TENORM Sources](http://www.epa.gov/radiation/tenorm/sources.html)
+{{% resource_link "61845adf-98ab-4bdb-8d8e-8feadc451a2f" "TENORM Sources" %}}
 
-[TENORM Sources: Summary Table](http://www.epa.gov/radiation/tenorm/sources.html#summary-table)
+{{% resource_link "1bb6b073-4ad4-4168-a41c-b6a2128fe2f5" "TENORM Sources: Summary Table" %}}
 
-Evaluation of EPA's Guidelines for TENORM ([PDF](http://www.epa.gov/radiation/docs/tenorm/402-r-00-001.pdf))
+Evaluation of EPA's Guidelines for TENORM ({{% resource_link "fce1cd47-8416-4cbb-8946-f865fe91763f" "PDF" %}})
 
 Spencer, J. E. "Hello 'NORM.'" *Arizona Geology* 33, no. 2 (2003): 1-2.
 
-Guidelines for naturally occurring radioactive materials. [Australian Petroleum Production and Exploration Association, Canberra](http://www.appea.com.au/)
+Guidelines for naturally occurring radioactive materials. {{% resource_link "8c4b59e1-c79d-4dff-aca8-34b0c079b167" "Australian Petroleum Production and Exploration Association, Canberra" %}}
 
-[Naturally occurring radioactive materials (NORM) in produced water and oil-field equipment; an issue for the energy industry](http://pubs.usgs.gov/fs/fs-0142-99/). U.S. Geological Survey, Denver, CO, United States (U.S.A.). USGS, Publications of the U.S. Geological Survey Fact Sheet - U.S. Geological Survey, Report: FS 0142-99, September 1999, pp. 4.
+{{% resource_link "2873c178-6cc9-4807-993d-c242186fb98a" "Naturally occurring radioactive materials (NORM) in produced water and oil-field equipment; an issue for the energy industry" %}}. U.S. Geological Survey, Denver, CO, United States (U.S.A.). USGS, Publications of the U.S. Geological Survey Fact Sheet - U.S. Geological Survey, Report: FS 0142-99, September 1999, pp. 4.
 
 Aamodt, J. "Naturally occurring radioactive materials; human health and regulation." *The Public Land and Resources Law Digest* 36, no. 1 (1999): 11-52.
 
-[Chart of the Nuclides and Isotopes](https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html). 16th ed. Knolls Atomic Power Laboratory. Distributor: Lockheed Martin, 2002.
+{{% resource_link "170aee30-b951-46b4-96aa-84903bbf58e9" "Chart of the Nuclides and Isotopes" %}}. 16th ed. Knolls Atomic Power Laboratory. Distributor: Lockheed Martin, 2002.
 
-[*BEIR VI Series: Health effects of exposure to radon*](http://www.epa.gov/radon/beirvi.html). Committee on Health Risks of Exposure to Radon. Board on Radiation Effects Research, Corp. Author: Commission on Life Sciences, National Research Council. Washington, DC: National Academy Press, 1999. ISBN: 9780309056458.
+{{% resource_link "53fcc794-eeb8-4a5b-b513-dc057cc1d47b" "*BEIR VI Series: Health effects of exposure to radon*" %}}. Committee on Health Risks of Exposure to Radon. Board on Radiation Effects Research, Corp. Author: Commission on Life Sciences, National Research Council. Washington, DC: National Academy Press, 1999. ISBN: 9780309056458.
 
 *Risk assessment of radon in drinking water*. Committee on the Risk Assessment of Exposure to Radon in Drinking Water, Board on Radiation Effects Research, Corp. Author: Commission on Life Sciences, National Research Council. Washington, DC: National Academy Press, 1999. ISBN: 9780309062923.
 
@@ -119,7 +119,7 @@ Leonard, B. "Radioisotope deposition on interior building surfaces: Air flow and
 
 Tokonami, S., H. Takahashi, Y. Kobayashi, W. Zhuo, and E. Hulber. "Up-to-date radon-thoron discriminative detector for a large scale survey." *Review of Scientific Instruments* 76, no. 11 (2005): 113505.
 
-Nielson, K. K., R. B. Holt, and V. C. Rogers. "Site-specific characterization of soil Radon potentials \[electronic resource\]: project summary." Cincinnati, OH: United States Environmental Protection Agency, Research and Development, National Risk Management Research Laboratory, 1996. ([PDF](http://purl.access.gpo.gov/GPO/LPS35300))
+Nielson, K. K., R. B. Holt, and V. C. Rogers. "Site-specific characterization of soil Radon potentials \[electronic resource\]: project summary." Cincinnati, OH: United States Environmental Protection Agency, Research and Development, National Risk Management Research Laboratory, 1996. ({{% resource_link "58db96c1-0a74-48bd-9a69-f49b396b477b" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
